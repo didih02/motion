@@ -8,6 +8,6 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.motion_06_keyframe);
+        setContentView(R.layout.motion_07_keyframe);
     }
 }
